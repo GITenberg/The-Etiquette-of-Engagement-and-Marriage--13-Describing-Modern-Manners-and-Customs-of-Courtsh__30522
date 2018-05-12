@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '34656'
     url: http://www.gutenberg.org/2009/agents/34656
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30522#The-Etiquette-of-Engagement-and-Marriage--13-Describing-Modern-Manners-and-Customs-of-Courtsh_
 gutenberg_issued: '2009-11-21'
 gutenberg_type: Text
 identifiers:
