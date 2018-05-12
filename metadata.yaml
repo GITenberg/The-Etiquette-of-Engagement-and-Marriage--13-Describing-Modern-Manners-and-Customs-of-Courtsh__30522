@@ -1,0 +1,27 @@
+_repo: The-Etiquette-of-Engagement-and-Marriage--13-Describing-Modern-Manners-and-Customs-of-Courtsh__30522
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Devereux, G. R. M.
+    gutenberg_agent_id: '34656'
+    url: http://www.gutenberg.org/2009/agents/34656
+description: ''
+gutenberg_issued: '2009-11-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30522'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Wedding etiquette'
+- !lcc 'GT'
+- !lcsh 'Courtship'
+title: "The Etiquette of Engagement and Marriage\r\nDescribing Modern Manners and\
+  \ Customs of Courtship and Marriage, and giving Full Details regarding the Wedding\
+  \ Ceremony and Arrangements"
+url: http://www.gutenberg.org/ebooks/30522
